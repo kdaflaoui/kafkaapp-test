@@ -2,7 +2,7 @@
 
 - Download kafak package 
 
--- For windows :
+--   For windows :
 
   1 - Run Zookeeper Server : start bin\windows>start zookeeper-server-start.bat config\zookeeper.properties 
   
